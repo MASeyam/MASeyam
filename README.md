@@ -42,8 +42,8 @@ I build scalable web applications and cross-platform mobile solutions using mode
 
 ### ⚡ Stats
 
-![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASeyam&show_icons=true&theme=radical&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MASeyam&layout=compact&theme=radical)
+![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=A.Seyam&show_icons=true&theme=radical&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A.Seyam&layout=compact&theme=radical)
 
 ---
 
