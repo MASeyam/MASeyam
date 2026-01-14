@@ -1,5 +1,5 @@
 # Hi, I'm Abdulrahman Seyam 
-### Mobile App Developer | Learning Backend
+### Mobile App Developer.
 
 I specialize in building cross-platform mobile apps with **Flutter** and am currently expanding my skills in **Web Devleopment**.
 
