@@ -1,4 +1,4 @@
-#  Hi, I'm Abdulrahman Seyam,
+#  Hi, I'm Abdulrahman Seyam
 
 💻 I'm Full Stack Engineer<br/>
 🎓 Studying Computer Science at **FUE** (Future University in Egypt)<br/>
